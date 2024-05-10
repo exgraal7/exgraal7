@@ -10,7 +10,7 @@
 [![Тепловая карта активности](https://github-readme-streak-stats.herokuapp.com/?user=exgraal7&theme=dracula)](https://github.com/exgraal7)
 
 ### Мои популярные репозитории
-[![Мои популярные репозитории](https://github-readme-stats.vercel.app/api/pin/?username=exgraal7&repo=repo1&theme=dracula)](https://github.com/mykhailoko/Dino-Adventure)
+[![Мои популярные репозитории](https://github-readme-stats.vercel.app/api/pin/?username=exgraal7&repo=repo1&theme=dracula)](https://github.com/exgraal7/alg-and-prog_2023)
 
 <!--
 **exgraal7/exgraal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
