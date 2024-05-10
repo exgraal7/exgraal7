@@ -2,8 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exgraal7&size_weight=0.5&count_weight=0.5)](https://github.com/exgraal7/github-readme-stats)
 
-![snake gif](https://github.com/MeghnaS21/exgraal7/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **exgraal7/exgraal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
