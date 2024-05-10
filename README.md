@@ -16,7 +16,7 @@
 
 ### Мои популярные репозитории
 
-[![Мои популярные репозитории](https://github-readme-stats.vercel.app/api/pin/?username=exgraal7&repo=repo1&theme=dracula)](https://github.com/exgraal7/repo1)
+[![Мои популярные репозитории](https://github-readme-stats.vercel.app/api/pin/?username=exgraal7&repo=repo1&theme=dracula)](https://github.com/mykhailoko/Dino-Adventure)
 [![Мои популярные репозитории](https://github-readme-stats.vercel.app/api/pin/?username=exgraal7&repo=repo2&theme=dracula)](https://github.com/exgraal7/repo2)
 
 ### Моя активность вкладчика
