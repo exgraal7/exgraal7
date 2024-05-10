@@ -11,7 +11,6 @@
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=exgraal7&count_private=true&show_icons=true&theme=pruccian&hide_border=true&bg_color=00000000" />
     <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
   </p>
 </details>
 
