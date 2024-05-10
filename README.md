@@ -1,4 +1,4 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=exgraal7&show_icons=true&theme=blueberry)](https://github.com/exgraal7/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=exgraal7&show_icons=true&theme=prussian)](https://github.com/exgraal7/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exgraal7&size_weight=0.5&count_weight=0.5&theme=blueberry)](https://github.com/exgraal7/github-readme-stats)
 <!--
